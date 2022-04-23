@@ -1,0 +1,42 @@
+adr D0 00 R W 
+dra C0 00 R W 
+drb C1 00 R W 
+drc C2 00 R W 
+ad_sel 86 00 R W 
+ora CC 00 R W 
+save_a 84 00 R W 
+orb CD 00 R W 
+orc CE 00 R W 
+psc D2 00 R W 
+tcr D3 00 R W M 
+ior C8 00 R W 
+wdr D8 00 R W 
+A FF 00 R W M 
+result 94 00 R W 
+chx1 8B 00 R W 
+chy1 8D 00 R W 
+chx2 8C 00 R W 
+chy2 8E 00 R W 
+tx_3 97 00 R W 
+V 82 00 R W 
+W 83 00 R W 
+X 80 00 R W M 
+Y 81 00 R W M 
+adcr D1 00 R W 
+ddra C4 00 R W 
+ddrb C5 00 R W 
+ddrc C6 00 R W 
+mem_drb 88 00 R W 
+led_cnt 85 00 R W 
+timer_c 87 00 R W 
+tscr D4 00 R W 
+drwr C9 00 R W 
+cur_cnt 89 00 R W 
+tx_x 95 00 R W 
+tx_y 96 00 R W 
+current1 8F 00 R W 
+current2 90 00 R W 
+direz 8A 00 R W 
+xoset 91 00 R W 
+yoset 92 00 R W 
+stabiliz 93 00 R W 
